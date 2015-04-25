@@ -57,6 +57,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-#http://stackoverflow.com/questions/10770377/howto-create-db-mysql-with-sqlalchemy
-#https://github.com/moranned/page-monitor/blob/master/models.py
